@@ -44,6 +44,7 @@ python3 problem01_counting_dna_nucleotides.py
 
 ## Hakkında
 
-Dokuz Eylül Üniversitesi Bilgisayar Bilimleri öğrencisiyim ve biyoinformatik?hesaplamalı biyoloji alanında kariyer yapmayı hedefliyorum. Bu repo, gerçek genomik veri üzerinde çalışmaya geçmeden önce temel algoritmik ve biyolojik kavramları pekiştirmek için attığım ilk adımları içeriyor.
+Dokuz Eylül Üniversitesi Bilgisayar Bilimleri öğrencisiyim, biyoinformatik ve hesaplamalı biyoloji alanlarında kariyer yapmayı hedefliyorum. 
+Bu repo, gerçek genomik veri üzerinde çalışmaya geçmeden önce temel algoritmik ve biyolojik kavramları pekiştirmek için attığım ilk adımları içeriyor.
 
 
