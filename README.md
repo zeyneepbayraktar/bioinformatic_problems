@@ -21,6 +21,10 @@ Bu repo, [Rosalind.info](https://rosalind.info) platformundaki biyoinformatik pr
 | 13 | [Calculating Expected Offspring](problem13_calculating_expected_offspring.py) | Beklenen değer |
 | 14 | [Finding a Shared Motif](problem14_longest_common_substring.py) | Longest common substring |
 | 15 | [Independent Alleles](problem15_independent_alleles.py) | Binom dağılımı, `scipy.stats` |
+| 16 | [Finding a Protein Motif](problem16_finding_a_protein_motif.py) | UniProt REST API, motif arama |
+| 17 | [Inferring mRNA from Protein](problem17_inferring_mRNA_from_protein.py) | Kombinatorik, modüler aritmetik |
+| 18 | [Open Reading Frames](problem18_open_reading_frames.py) | Reading frame, reverse complement, ORF |
+| 19 | [Enumerating Gene Orders](problem19_enumerating_gene_orders.py) | Permütasyon, recursion |
 
 ## Kullanılan Araçlar
 
